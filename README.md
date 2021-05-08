@@ -1,4 +1,3 @@
-# clientes-cadastro
 <div id="app"></div>
 <form class="form-horizontal">
 <fieldset>
@@ -257,7 +256,7 @@
  
  <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-2 control-label" for="textinput">Como ficou sabendo da Clínica?</label>  
+  <label class="col-md-2 control-label" for="textinput">por favor cadastre corretamente os dados.</label>  
   <div class="col-md-4">
   <input id="textinput" name="textinput" placeholder="" class="form-control input-md" type="text">
     
