@@ -232,7 +232,7 @@
   </div>
   
   
-   <label class="col-md-1 control-label" for="encaminhamento">Aluno FAP-Betim<h11>*</h11></label>
+   <label class="col-md-1 control-label" for="encaminhamento">formulario ao setor correposndente<h11>*</h11></label>
   <div class="col-md-4">
     <div class="input-group">
       <span class="input-group-addon">     
